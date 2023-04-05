@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Game Shop</p>
-  <a href="https://site-gameshop-murex-delta.vercel.app/" target:"_blank"><img src="https://user-images.githubusercontent.com/123211425/230077274-7ecbae5c-9514-46bb-b46f-7ec58605082d.png" alt="Mario Bros Pixel"></a>
+  <a href="https://site-gameshop-murex-delta.vercel.app/" target:"_blank"><img src="https://media.giphy.com/media/BQso6EW8N8CpDCpTe8/giphy.gif" alt="Mario Bros Pixel"></a>
 </h1>
 <div style="display: inline_block"><br>
   <div align="center">
@@ -14,6 +14,8 @@
 
 
 <a href="https://site-gameshop-murex-delta.vercel.app/"><b>Acesse aqui a página da Game Shop</b></a>
+
+<br></br>
 
 <h3>Contatos</h3>
 <div style="display: inline_block">
