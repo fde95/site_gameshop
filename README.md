@@ -15,6 +15,12 @@
 
 <a href="https://site-gameshop-murex-delta.vercel.app/"><b>Acesse aqui a página da Game Shop</b></a>
 
+<h3>Pré Visualização</h3>
+
+ <a href="https://site-gameshop-murex-delta.vercel.app/"> <img src="https://user-images.githubusercontent.com/123211425/230105109-75278873-42b8-4b11-92d2-80e48af40b50.png" alt="Mario Bros Pixel"> </a>
+
+
+
 <br></br>
 
 <h3>Contatos</h3>
