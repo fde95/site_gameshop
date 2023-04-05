@@ -2,6 +2,12 @@
   <p align="center">Game Shop</p>
   <a href="https://site-gameshop-murex-delta.vercel.app/" target:"_blank"><img src="https://user-images.githubusercontent.com/123211425/230077274-7ecbae5c-9514-46bb-b46f-7ec58605082d.png" alt="Mario Bros Pixel"></a>
 </h1>
+<div style="display: inline_block"><br>
+  <div align="center">
+  <img align="center" alt="fde95-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fde95-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
+</div>
 
 <h3> Sobre o Projeto </h3>
 <p>Este foi um desafio passado durante o módulo de CSS do curso Engenheiro Front-End da EBAC, onde desenvolvi uma página web para a loja Game Shop utilizando apenas HTML5 e CSS3. Além disso, incluím um formulário para contato, links para as redes sociais e um link com o endereço da loja. Para disponibilizar a página online, utilizamos o serviço do site Velcel.com.</p>
